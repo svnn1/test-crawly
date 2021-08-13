@@ -1,0 +1,15 @@
+{
+  "name": "test-crawly",
+  "version": "1.0.0",
+  "description": "Teste de crawler",
+  "main": "index.js",
+  "license": "MIT",
+  "author": {
+    "name": "Silvano Santana",
+    "email": "jnkppl@hotmail.com"
+  },
+  "dependencies": {
+    "axios": "^0.21.1",
+    "cheerio": "^1.0.0-rc.10"
+  }
+}
